@@ -28,7 +28,7 @@ export const TaskCreator = ({ createNewTask }) => {
       </div>
       <div className="col-3 p-0 d-flex align-items-center">
         <button className="btn btn-primary btn-sm" type="submit">
-          Save Task
+          Guardar
         </button>
       </div>
     </form>
